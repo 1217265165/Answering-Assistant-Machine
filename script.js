@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  引入双重绑定机制：绑定题目区域 + 绑定翻页按钮。彻底适配全网所有形态的网课考试系统。
-// @author       https://github.com/1217265165
+// @author       https://github.com/1217265165/Answering-Assistant-Machine/
 // @match        https://chat.deepseek.com/*
 // @match        https://www.doubao.com/*
 // @match        https://gemini.google.com/*
