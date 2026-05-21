@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         跨页多模态自动答题机—支持DeepSeek/豆包/Gemini/GPT(v1.0)
+// @name         跨页多模态极速答题辅助机—支持DeepSeek/豆包/Gemini/GPT(v1.0)
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  修复UI遮挡问题，完美兼容自定义提示词 + 视觉选框绑定 + 方式1手动选取。
